@@ -25,13 +25,17 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-share-icons": "^1.1.2",
-    "react-syntax-highlighter": "^12.2.1"
+    "react-syntax-highlighter": "^12.2.1",
+    "serve": "^13.0.2"
   },
   "scripts": {
+    "dev": "react-scripts start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+   
+
   },
   "eslintConfig": {
     "extends": "react-app"
