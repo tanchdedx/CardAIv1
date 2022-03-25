@@ -12,9 +12,7 @@ const Content = () => (
         <Col key={i} md={5} className="mb-4">
           <h6 className="mb-3">
             <a target="_blank" rel="noopener noreferrer" href={col.link}>
-              {col.title}
-            </a>
-          </h6>
+              {col.title} </a> </h6>
           <p>{col.description}</p>
         </Col>
       ))}
