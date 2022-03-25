@@ -19,10 +19,7 @@ All credit and debit cards on one platform..</p>
             rel="noopener noreferrer"
             href="https://t0923532.wixsite.com/card-ai/general-5">CONTACT US </a> </strong>
       to find out more…</p>
-      //<center>
-			//		<img src= {Img} alt="pic" />
-			//		<br/> <b></b>
-			//	</center>
+
     
 </div>
 </div>
