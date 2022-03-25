@@ -15,8 +15,7 @@ export const ExternalApi = () => {
       </p>
       <ButtonGroup>
         <Button color="primary" className="mt-5">
-          Get Public Message
-        </Button>
+          Get Public Message </Button>
         
         <Button color="primary" className="mt-5">
           Get Private Message
