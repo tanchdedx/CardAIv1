@@ -13,7 +13,7 @@ const contentData = [
   },
   {
     title: "TRACKING OF  CARD EXPENDITURE",
-    link: "hhttps://t0923532.wixsite.com/card-ai/general-7",
+    link: "https://t0923532.wixsite.com/card-ai/general-7",
     description:
       "Automatic Syncing of expenditure made from credit cards and digital wallets. Automated categorization of expenses.", },
   {
