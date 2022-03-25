@@ -1,0 +1,11 @@
+.text-center hero my-5{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 4rem;
+    background:linear-gradient(45deg,rgba(0, 0, 0, 0.575),rgba(0, 0, 0, 0.308)),;
+    background-size: cover;
+    background-position: center;
+  }

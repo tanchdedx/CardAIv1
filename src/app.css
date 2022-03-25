@@ -39,13 +39,67 @@
 .text-center hero my-5{
   width: 100%;
   height: 100vh;
-  background-image: img src="./assets/Kid.png";
+  background: url(./assets/Woman.jpeg);
+  //background-image: img src="./assets/Woman.jpeg";
   background-size: cover;
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   padding-left: 4%;
   padding-right: 4%;
   box-sizing: border-box;
+  text-align: left;
   
 }
 
+.intro {
+  //background-color:#ffcccc;
+  padding: 0 60px;  
+  text-align: justify;
+  max-width: 600px;
+}
+#intro .intro {
+  flex-direction: column;
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+.intro h1::after {
+  content: '';
+  width: 100%;
+  height:3px;
+  background: rgb(187, 20, 220);
+  display: block;
+  margin: 100;
+  display: block;
+  margin: auto;
+
+}
+
+
+:root {
+  --clr-white:rgba(255, 255, 255, 0.603);
+  --clr-black:rgb(0, 0, 0);
+  --clr-cream:rgb(245, 222, 179);
+  --clr-glass: 19, 97%, 83%, 0.365;
+  --clr-glass-light:19, 77%, 83%, 0.345;
+  --clr-glass-dark:39,47%, 89%, 0.110;
+  --clr-glass-font:39,47%, 89%, 0.210;
+  --clr-glass-blank:0, 0%, 0%,0.062;
+}
+
+.main {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 4rem;
+  background:linear-gradient(45deg,rgba(0, 0, 0, 0.575),rgba(0, 0, 0, 0.308));
+  background: url(./assets/Woman.jpeg);
+  //background-size: cover;
+  //background-position: right;
+  background-size: cover;
+  background-position: center;
+}

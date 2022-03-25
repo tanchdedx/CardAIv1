@@ -1,27 +1,26 @@
 const contentData = [
   {
-    title: "Configure other identity providers",
-    link: "https://auth0.com/docs/connections",
+    title: "PERSONALISED RECOMMENDATION ENGINE",
+    link: "https://t0923532.wixsite.com/card-ai/our-services",
     description:
-      "Auth0 supports social providers as Facebook, Twitter, Instagram and 100+, Enterprise providers as Microsoft Office 365, Google Apps, Azure, and more. You can also use any OAuth2 Authorization Server.",
+      "On/Off location-based Card recommendations at stores and restaurants for the best discounts.Search for deals on cards already owned and pushed notifications on favourite listings and searches made.",
   },
   {
-    title: "Enable Multifactor Authentication",
-    link: "https://auth0.com/docs/multifactor-authentication",
+    title: "MANAGEMENT TOOL FOR ALL YOUR CREDIT CARDS & DIGITAL WALLETS",
+    link: "https://t0923532.wixsite.com/card-ai/general-6",
     description:
-      "Add an extra layer of security by enabling Multi-factor Authentication, requiring your users to provide more than one piece of identifying information. Push notifications, authenticator apps, SMS, and DUO Security are supported.",
+      "Dashboard for all credit cards and digital wallets owned.Retrieval of Transaction history for each credit card account and digital wallet.Bill Payments and wallet transfers via linked bank account.​",
   },
   {
-    title: "Anomaly Detection",
-    link: "https://auth0.com/docs/anomaly-detection",
+    title: "TRACKING OF  CARD EXPENDITURE",
+    link: "hhttps://t0923532.wixsite.com/card-ai/general-7",
     description:
-      "Auth0 can detect anomalies and stop malicious attempts to access your application. Anomaly detection can alert you and your users of suspicious activity, as well as block further login attempts.",
-  },
+      "Automatic Syncing of expenditure made from credit cards and digital wallets. Automated categorization of expenses.", },
   {
-    title: "Learn About Rules",
-    link: "https://auth0.com/docs/rules",
+    title: "JUST ONE APP",
+    link: "https://t0923532.wixsite.com/card-ai/app-landing-page",
     description:
-      "Rules are JavaScript functions that execute when a user authenticates to your application. They run once the authentication process is complete, and you can use them to customize and extend Auth0's capabilities.",
+      "Just one app.The days of wondering which credit card or payment mode to use is over! Get in today.",
   },
 ];
 
