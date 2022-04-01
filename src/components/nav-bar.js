@@ -24,7 +24,14 @@ const MainNav = () => (
     >
       Features
     </Nav.Link>
-    
+    <Nav.Link
+      as={RouterNavLink}
+      to="/Search"
+      exact
+      activeClassName="router-link-exact-active"
+    >
+      CardAI
+    </Nav.Link>
     <Nav.Link
       as={RouterNavLink}
       to="/profile"
@@ -51,7 +58,7 @@ const MainNav = () => (
     >
       About Us
     </Nav.Link>
-
+    
   </Nav>
 );
 
