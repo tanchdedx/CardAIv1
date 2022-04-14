@@ -48,12 +48,12 @@ const Search = () =>{
                     padding: '5px',
                   }}
                 >
-                  {/* <a href="/payment">
+                  <a href="/payment">
                     <button className="btn btn-primary btn-block">
                       Use Now
                     </button>
                   </a>
-                  <a href="/setting">
+                  {/* <a href="/setting">
                     <button className="btn btn-primary btn-block">
                       Setting
                     </button>
