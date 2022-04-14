@@ -41,6 +41,27 @@ const Search = () =>{
                                 <h5 className="card-title">{item.title}</h5>
                                 <p className="card-text">{item.desc}</p>
                             </div>
+                            <div
+                  style={{
+                    display: 'flex',
+                    justifyContent: 'space-evenly',
+                    padding: '5px',
+                  }}
+                >
+                  {/* <a href="/payment">
+                    <button className="btn btn-primary btn-block">
+                      Use Now
+                    </button>
+                  </a>
+                  <a href="/setting">
+                    <button className="btn btn-primary btn-block">
+                      Setting
+                    </button>
+                  </a> */}
+                  <a href={item.Apply}>
+                    <button className="btn btn-primary btn-block">Apply</button>
+                  </a>
+                </div>
                         </div>
                     </div>
                    )
