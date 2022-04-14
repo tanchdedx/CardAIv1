@@ -4,7 +4,6 @@ import NFC from '../assets/nfc.png';
 
 const Payment = () => (
   <div id="app" className="d-flex flex-column h-100">
-
     <div
       style={{
         display: 'inline-flex',
