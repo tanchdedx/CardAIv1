@@ -3,7 +3,7 @@ import { Route, Switch } from "react-router-dom";
 import { Container } from "react-bootstrap";
 
 import { NavBar, Footer, Loading, Content } from "./components";
-import { Home, Features, Search, Profile, ExternalApi, About } from "./views";
+import { Home, Features, Search, Profile, ExternalApi, About, Payment } from "./views";
 import { useAuth0} from "@auth0/auth0-react";
 import "./app.css";
 
@@ -30,6 +30,7 @@ const App = () => {
           <Route path="/profile" component={Profile} />
           <Route path="/external-api" component={ExternalApi} />
           <Route path="/about-us" component={About} />
+          <Route path="/payment" component={Payment} />
         </Switch>
       </Container>
       <Footer />
