@@ -45,7 +45,7 @@ const MainNav = () => (
     <Nav.Link
       as={RouterNavLink}
       // to="/external-api"
-      to="payment"
+      to="/payment"
       exact
       activeClassName="router-link-exact-active"
     >
