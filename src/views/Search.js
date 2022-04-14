@@ -48,7 +48,7 @@ const Search = () =>{
                     padding: '5px',
                   }}
                 >
-                  <a href="/payment">
+                  <a href="https://cardai-frontend.herokuapp.com/payment">
                     <button className="btn btn-primary btn-block">
                       Use Now
                     </button>
