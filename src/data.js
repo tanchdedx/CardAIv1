@@ -1,4 +1,4 @@
- //Creat data array
+ //Create data array
  import img1 from './assets/OCBC 365.png';
  import img2 from './assets/OCBC Titatium.png';
  import img3 from './assets/OCBC 90N.png';
