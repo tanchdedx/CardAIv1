@@ -14,6 +14,7 @@
              img: img1,
              title: 'OCBC365',
              desc: 'Earn 6% cashback on everyday dining Earn 3% cashback on groceries, land transport, online travel, telco and electricity             Earn up to 22.1% fuel savings at Caltex and 5% cashback for all other petrol brands',
+             Apply: 'https://www.ocbc.com/personal-banking/cards/365-cashback-credit-card',
              Merchant:'DinTaiFung,cold storage, sheng siong, SIA, Singtel,Genco, PUB, Caltex, shell, Esso, petrol,expedia, shopping'
          },
          {
@@ -21,6 +22,7 @@
             img: img2,
             title: 'OCBC Titanium Rewards',
             desc: 'Earn 50 OCBC$ (worth 20 miles) for every S$5 spent on shopping (OCBC$ will be awarded for every S$5 spent on a per transaction basis. Find out more about OCBC$)            Earn 5 OCBC$ on all other spend            Additional 2% cash rebate when you spend at BEST Denki',
+            Apply: 'https://www.ocbc.com/personal-banking/cards/titanium-rewards-credit-card.page',
             Merchant:'Best Denki, Starbucks'
         }, 
         {
@@ -28,6 +30,7 @@
             img: img3,
             title: 'OCBC 90°N Visa Card',
             desc: '2.1 Travel$ per S$1 on foreign currency spend (Travel$ will be awarded for every S$5 spent on a per transaction basis)            1.2 Travel$ per S$1 on local spend',
+            Apply: 'https://www.ocbc.com/personal-banking/cards/90-degrees-visa-card',
             Merchant:'SIA, expedia, travel, hotel, airfare, airline'
         },
         {
@@ -35,6 +38,7 @@
             img: img4,
             title: 'OCBC platinum',
             desc: 'Earn 5 OCBC$ per S$5 spent (OCBC$ will be awarded for every S$5 spent on a per transaction basis. Find out more about OCBC$)        Enjoy travel deals from Expedia            Enjoy dining deals for every occasion',
+            Apply: 'https://www.ocbc.com/personal-banking/cards/cashflo-cashback-credit-card.page',
             Merchant:'dining, shopping'
         },
         {
@@ -42,6 +46,7 @@
            img: img5,
            title: 'OCBC NTUC Plus',
            desc: 'Up to 12% rebate at FairPrice stores and Warehouse Club stores Receive up to 20.3% at Esso and instant 18.1% off at Caltex           3% rebate at Popular',
+           Apply: 'https://www.ocbc.com/personal-banking/cards/ntuc-plus-rewards-credit-card.page',
            Merchant:'fairprice'
        },
        {
@@ -49,9 +54,8 @@
            img: img6,
            title: 'OCBC Frank Card',
            desc: "Up to 6% cashback on online,in-store mobile contactless and foreign currency spend made in-store",
+           Apply: 'https://www.frankbyocbc.com/products/cards/credit-card',
            Merchant:'shopping, Superdry, Tangs, Metro'
-           
-           
        }
      ]
  }
